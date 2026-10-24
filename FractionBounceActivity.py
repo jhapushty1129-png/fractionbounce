@@ -586,4 +586,4 @@ class FractionBounceActivity(activity.Activity):
         i = self._bounce_window.buddies.index([nick, key])
         self._player.set_from_pixbuf(self._player_pixbufs[i])
         self._player.set_tooltip_text(nick)
-# Mentored by Sugar Labs level zero setup.
+# Mentored by Sugar Labs level zero setup. 
